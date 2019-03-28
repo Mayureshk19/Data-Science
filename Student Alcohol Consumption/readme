@@ -1,0 +1,6 @@
+The Data Set has been taken from Kaggle
+Basic EDA(Exploratory Data Analysis) and Final Grade Prediction has been successfully carried out for BOTH the .csv files
+Some of the basic visualizations are done such as Age,Sex, Weekly Study Time,  Romantic Relationship, Alcohol Consumption & other features.
+Alcohol Consumption and Health.
+Alcohol Consumption and Final Grade
+Final Grade Prediction- for this 4 simple regression models are used viz Decision Treee Regression,Linear Regression,Lasso and Ridge Regression
